@@ -1,0 +1,61 @@
+
+.container{
+    max-width: 1376px;
+    width : 100%;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    display: flex;
+    padding: 29px 139px 30px 139px;
+
+    }
+ul{
+    display: flex;
+    margin-left: 144px;
+}
+
+li{
+    margin-right: 72px;
+    font-size: 14px;
+    color: #8172D5;
+    font-family: 'Roboto';
+}
+
+/* dasrulda headeri da daiwyo section-i */
+
+
+section{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #F2F5F8;
+    
+
+}
+
+h1{
+    font-size: 18;
+    color: #133B3A;
+    font-family: 'Roboto';
+}
+
+.cards{
+    display:  flex;
+    justify-content: space-around;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+figure{
+    width: 22%;
+    height: 368px;
+}
+
+figcaption{
+    font-size: 18;
+    color:#133B3A
+    font-family: 'Roboto';
+}
+footer{
+    width: 100%;
+}
